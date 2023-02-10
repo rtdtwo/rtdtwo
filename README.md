@@ -4,11 +4,11 @@ From late 2016 to 2020, I took up internships and full-time roles with a couple 
 
 I like to keep myself busy with personal projects when I have some time to kill.
 
-# After work
+## After work
 I'm a big-time space and science nerd, a vocalist and a guitarist. I like geography and cartography and have a strong urge to travel to new places, learn new cultures and document the world in the process!
 
-# Roots
+## Roots
 I hail from a Telugu-speaking family from Berhampur, Odisha, India. A product of the marriage of science and music - my father was a meteorologist and had a deep interest in astronomy, earth sciences and literature, while my mother is a retired playback singer. I, therefore, had plenty of exposure to a myriad of things in childhood like astronomy, meteorology, geography, and of course, music!
 
-# Music
+## Music
 I find music therapeutic, and I record whenever I get a chance.
