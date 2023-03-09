@@ -6,6 +6,15 @@ Beyond work, I sing, (pretend to) play the guitar, stargaze, annoy people with f
 
 Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm originally from Pune, India 🇮🇳.
 
+### ✉️ Reach out
+- [LinkedIn](https://www.linkedin.com/in/rishabhtatiraju/)
+- [Email](mailto:tatiraju.rishabh@gmail.com)
+
+### 🌐 Find me elsewhere
+- [Website](https://rishabh.blog)
+- [Medium](https://rtdtwo.medium.com)
+- [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers)
+
 ### 💼 Experience
 - [UF CTS-IT](https://www.ctsi.ufl.edu/research/study-design-and-analysis/informatics-consulting), Gainesville, FL - _hybrid_
   - Student Software Developer Intern - Jan 2023 to present
@@ -30,13 +39,3 @@ Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm or
 - Hindi - _native-like_
 - Marathi - _intermediate_
 - Tamil - _basic_
-
-
-### ✉️ Reach out
-- [LinkedIn](https://www.linkedin.com/in/rishabhtatiraju/)
-- [Email](mailto:tatiraju.rishabh@gmail.com)
-
-### 🌐 Find me elsewhere
-- [Website](https://rishabh.blog)
-- [Medium](https://rtdtwo.medium.com)
-- [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers)
