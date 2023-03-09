@@ -4,6 +4,8 @@ I code, mostly with Python, JavaScript and Java. I also work with system archite
 
 Beyond work, I sing, (pretend to) play the guitar, stargaze, annoy people with facts about anything and everything, and a bit more!
 
+I speak English, Hindi, Telugu, Marathi and Tamil.
+
 Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm originally from Pune, India 🇮🇳.
 
 ### Experience
