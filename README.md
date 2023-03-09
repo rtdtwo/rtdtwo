@@ -25,9 +25,9 @@ Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm or
 - University of Pune, Pune, IN - BEng. in Computer Engineering - Aug 2014 to May 2018
 
 ### 🗣️ Language proficiency
-- English - _native-level_
+- English - _native-like_
 - Telugu - _native_
-- Hindi - _native-level_
+- Hindi - _native-like_
 - Marathi - _intermediate_
 - Tamil - _basic_
 
