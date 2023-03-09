@@ -4,8 +4,6 @@ I code, mostly with Python, JavaScript and Java. I also work with system archite
 
 Beyond work, I sing, (pretend to) play the guitar, stargaze, annoy people with facts about anything and everything, and a bit more!
 
-I speak English, Hindi, Telugu, Marathi and Tamil.
-
 Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm originally from Pune, India 🇮🇳.
 
 ### Experience
@@ -25,6 +23,14 @@ Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm or
 ### 🎓 Academics
 - University of Florida, Gainesville, FL - MS in Computer Science - Aug 2021 to May 2023
 - University of Pune, Pune, IN - BEng. in Computer Engineering - Aug 2014 to May 2018
+
+### Language proficiency
+- English - _native-level_
+- Telugu - _native_
+- Hindi - _native-level_
+- Marathi - _intermediate_
+- Tamil - _basic_
+
 
 ### ✉️ Reach out
 - [LinkedIn](https://www.linkedin.com/in/rishabhtatiraju/)
