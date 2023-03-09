@@ -6,7 +6,7 @@
 > The name means _the second note of music_, i.e _Re_ in _Do Re Mi Fa So La Ti_ (_Re_ is called _Re_ in Indian classical music too). It also means a _bull_, or _Taurus_, athough _Rushabh_ is most commonly associated with that meaning.
 
 `Tatiraju` is my last name.
-- `Tati` sounds a lot like `Tatty`. The `T` is pronounced with the tip of your toungle touching the hard palate and the back of your upper incisor teeth. There is no word in English that has a pronuncition this way, so I understand if you end up saying it `Tatty`.
+- `Tati` sounds a lot like `Tatty`. Both the `T`s are pronounced with the tip of your tongue touching the hard palate and the back of your upper incisor teeth together. There is no word in English that has a pronuncition this way, so I understand if you end up saying it `Tatty`.
 - `Raju` sounds like the combination of `Ra` (like the Egyptian sun god) and `ju` (like in `juice`).
 
 > Tatiraju is a rare [Telugu](https://en.wikipedia.org/wiki/Telugu_people) last name. People with this last name are almost certainly blood relatives. The current hypothesis about its origin is as an occupational surname introduced in medieval India where my ancestors were employed by kings (_raja_) as advisors and tax collectors.
