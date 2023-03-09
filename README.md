@@ -1,4 +1,4 @@
-Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob/mainname-help.md)_). I'm currently a Computer Science grad student at the University of Florida, graduating May 2023.
+Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob/main/name-help.md)_). I'm currently a Computer Science grad student at the University of Florida, graduating May 2023.
 
 I code, mostly with Python, JavaScript and Java. I also work with system architecture sometimes.
 
