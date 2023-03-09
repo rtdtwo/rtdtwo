@@ -1,8 +1,10 @@
 # Name Help
 
 English (Romanized) : Rishabh Tatiraju
+
 Hindi (Devanagari)  : ऋषभ तातिराजु
-Telugu              : రిషబ్ తతిరాజు
+
+Telugu              : రిషబ్ తాతిరాజు
 
 ## How to pronounce my name?
 `Rishabh` is my first name. It's a _Sanskrit_ name. `Rishab` is a widely used alternative, but I prefer the original.
