@@ -1,13 +1,19 @@
 ## How to pronounce my name?
-- `Rishabh` is my first name. It is a _Sanskrit_ name. `Rishab` is a widely used alternative (I prefer the original).
-  - `Rish`, like `Rich` or `Rick` but with the `sh` (like in `shoe`) at the end.
-  - `abh`, `ab` (like in `abuse`). There's a partial `h` sound at the end (similar to `hundred`), but it is optional.
-  - The name means _the second note of music_, i.e `Re` in `Do Re Mi Fa So La Ti`. `Re` is `Re` in Indian classical music too.
-  - It also means a _bull_, or _Taurus_.
+`Rishabh` is my first name. It's a _Sanskrit_ name. `Rishab` is a widely used alternative, but I prefer the original.
+- `Rish`, like `Rich` or `Rick` but with the `sh` (like in `shoe`) at the end.
+- `abh`, `ab` (like in `abuse`). There's a partial `h` sound at the end (similar to `hundred`), but it is optional.
+
+> The name means _the second note of music_, i.e _Re_ in _Do Re Mi Fa So La Ti_ (_Re_ is called _Re_ in Indian classical music too). It also means a _bull_, or _Taurus_, athough _Rushabh_ is most commonly associated with that meaning.
+
+`Tatiraju` is my last name.
+- `Tati` sounds a lot like `Tatty`. The `T` is pronounced with the tip of your toungle touching the hard palate and the back of your upper incisor teeth. There is no word in English that has a pronuncition this way, so I understand if you end up saying it `Tatty`.
+- `Raju` sounds like the combination of `Ra` (like the Egyptian sun god) and `ju` (like in `juice`).
+
+> Tatiraju is a rare [Telugu](https://en.wikipedia.org/wiki/Telugu_people) last name. People with this last name are almost certainly blood relatives. The current hypothesis about its origin is as an occupational surname introduced in medieval India where my ancestors were employed by kings (_raja_) as advisors and tax collectors.
 
 ## What's in a name?
 A lot, actually - especially with Indian names having beautiful meanings turning into something entirely opposite when non-Native speakers pronounce it _(see [Hardik](https://en.wikipedia.org/wiki/Hardik))_. So, thank you for showing interest in pronouncing my name the correct way.
 
-I get it, Indian names are hard to get right. Most Indian names are from the [_Sanskrit_](https://en.wikipedia.org/wiki/Sanskrit) language, a classical language with the first works dated around 1500 BCE. After being the primary language for official, literary and religious purposes for more than 2500 years, _Sanskrit_ speakers slowly declined, primarily due to the onset of European colonization. 
+Most Indian names are from the [_Sanskrit_](https://en.wikipedia.org/wiki/Sanskrit) language, a classical language with the first works dated around 1500 BCE. After being the primary language for official, literary and religious purposes for more than 2500 years, _Sanskrit_ speakers slowly declined, primarily due to the onset of European colonization. You can imagine Sanskrit to be the _Latin_ of India.
 
-_Sanskrit_ is a difficult language, even for Indians. There are no known native speakers of the language, but the language is culturally significant to date, with most sacred and literary work of Vedic India written in the language. It's legacy lives on in the form of its influence, either directly or indirectly, on the modern languages of India, including Hindi, Bengali and Telugu, my native language. 
+_Sanskrit_ is a difficult language, even for Indians. There are no known native speakers today, but the language is culturally significant to date, with all sacred and literary work of Vedic India passed down to many generations using verbal or written _Sanskrit_. The legacy of _Sanskrit_ lives on in the form of its influence, either directly or indirectly, on the modern languages of India, including Hindi, Bengali and Telugu, my native language. 
