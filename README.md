@@ -9,3 +9,4 @@ Currently hopping between 🎓 Gainesville, FL and 🗽 New York, NY. From Pune,
 ### 🌐 Find me elsewhere
 - [Website](https://rishabh.blog)
 - [Medium](https://rtdtwo.medium.com)
+- [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656)
