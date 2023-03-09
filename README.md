@@ -6,7 +6,7 @@ Beyond work, I sing, (pretend to) play the guitar, stargaze, annoy people with f
 
 Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm originally from Pune, India 🇮🇳.
 
-### Experience
+### 💼 Experience
 - [UF CTS-IT](https://www.ctsi.ufl.edu/research/study-design-and-analysis/informatics-consulting), Gainesville, FL - _hybrid_
   - Student Software Developer Intern - Jan 2023 to present
   - Student Software Developer (OPS) - Jan to May 2022, Aug to Dec 2022
@@ -24,7 +24,7 @@ Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm or
 - University of Florida, Gainesville, FL - MS in Computer Science - Aug 2021 to May 2023
 - University of Pune, Pune, IN - BEng. in Computer Engineering - Aug 2014 to May 2018
 
-### Language proficiency
+### 🗣️ Language proficiency
 - English - _native-level_
 - Telugu - _native_
 - Hindi - _native-level_
