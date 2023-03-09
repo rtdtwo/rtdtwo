@@ -1,8 +1,8 @@
 ## How to pronounce my name?
-- `Rishabh` is my first name
-  - `Rish`, like `Rich` or `Rick` but with the `sh` like in `shoe` at the end.
-  - `abh`, `ab` like in `abuse`. There's a partial `h` sound at the end, similar to `hundred`, but ic an be omitted.
-  - `Rishabh` is a _Sanskrit_ name. `Rishab` is a widely used version too in Hindi language.
+- `Rishabh` is my first name. It is a _Sanskrit_ name. `Rishab` is a widely used alternative.
+  - `Rish`, like `Rich` or `Rick` but with the `sh` (like in `shoe`) at the end.
+  - `abh`, `ab` (like in `abuse`). There's a partial `h` sound at the end (similar to `hundred`), but it is optional.
+  - `
   - The name means _the second note of music_, i.e `Re` in `Do Re Mi Fa So La Ti`. `Re` is `Re` in Indian classical music too.
   - It also means a _bull_, or _Taurus_.
 
