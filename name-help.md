@@ -11,7 +11,7 @@ Telugu              : రిషబ్ తాతిరాజు
 - `Rish`, like `Rich` or `Rick` but with the `sh` (like in `shoe`) at the end.
 - `abh`, `ab` (like in `abuse`). There's a partial `h` sound at the end (similar to `hundred`), but it is optional.
 
-> The name means _the second note of music_, i.e _Re_ in _Do Re Mi Fa So La Ti_ (_Re_ is called _Re_ in Indian classical music too). It also means a _bull_, or _Taurus_, athough _Rushabh_ is most commonly associated with that meaning.
+> The name means _the second note of music_, i.e _Re_ in _Do Re Mi Fa So La Ti_ (_Re_ is called _Re_ in Indian classical music too). It also means a _bull_, or _Taurus_, although _Rushabh_ is most commonly associated with that meaning.
 
 `Tatiraju` is my last name.
 - `Tati` sounds a lot like `Tatty`. Both the `T`s are pronounced with the tip of your tongue touching the hard palate and the back of your upper incisor teeth together. There is no word in English that has a pronuncition this way, so I understand if you end up saying it `Tatty`.
