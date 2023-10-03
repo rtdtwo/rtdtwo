@@ -12,8 +12,10 @@ Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm or
 - [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers)
 
 ### 💼 Experience
+- [Galatea Associates](https://www.galatea-associates.com), St. Petersburg, FL - _hybrid_
+  - Financial Software Associate Intern - June 2023 to present 
 - [UF CTS-IT](https://www.ctsi.ufl.edu/research/study-design-and-analysis/informatics-consulting), Gainesville, FL - _hybrid_
-  - Student Software Developer Intern - Jan 2023 to present
+  - Student Software Developer Intern - Jan to April 2023
   - Student Software Developer (OPS) - Jan to May 2022, Aug to Dec 2022
 - [Galatea Associates](https://www.galatea-associates.com), St. Petersburg, FL - _hybrid_
   - Financial Software Associate Intern - May to Aug 2022 
