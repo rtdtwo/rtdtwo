@@ -1,4 +1,4 @@
-Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob/main/name-help.md)_). I'm currently a Computer Science grad student at the University of Florida, graduating May 2023. I code - mostly with Python, JavaScript and Java. I also work with system architecture sometimes. After work, I sing, (pretend to) play the guitar, stargaze, learn, and a bit more!
+Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob/main/name-help.md)_). I'm currently a Financial Software Associate at Galatea Assoicates, LLC. I graduated from University of Florida in May 2023. I code mostly with Python, JavaScript and Java. I also work with system architecture sometimes. After work, I sing, (pretend to) play the guitar, stargaze, learn, and a bit more!
 
 Currently I'm hopping between 🎓 Gainesville, FL and 🗽 New York, NY. I'm originally from Pune, India 🇮🇳.
 
