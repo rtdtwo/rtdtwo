@@ -9,7 +9,7 @@ Currently I'm hopping between Saint Petersburg, FL and  Jersey City, NJ. I have 
 ### 🌐 Find me elsewhere
 - [Website](https://rishabh.blog)
 - [Medium](https://rtdtwo.medium.com)
-- [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers)
+- [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers, _on a hiatus_)
 
 ### 💼 Experience
 - __[Galatea Associates](https://www.galatea-associates.com), St. Petersburg, FL__
@@ -27,7 +27,7 @@ Currently I'm hopping between Saint Petersburg, FL and  Jersey City, NJ. I have 
   -  Full Stack Engineer - Jul 2018 to Feb 2020 - _full time_, _onsite_
   -  Android Developer Intern - Nov 2016 to Jun 2018 - _internship_, _onsite_
 
-### 🎓 Academics
+### 🎓 Education
 - __University of Florida, Gainesville, FL, USA - MS in Computer Science__ - Aug 2021 to May 2023
 - __University of Pune, Pune, India - BEng. in Computer Engineering__ - Aug 2014 to May 2018
 
