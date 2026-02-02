@@ -17,7 +17,7 @@ Telugu              : రిషబ్ తాతిరాజు
 - `Tati` sounds a lot like `Tatty`. Both the `T`s are pronounced with the tip of your tongue touching the space between the hard palate and the back of your upper incisor teeth. No word in English has a pronunciation this way, so I understand if you end up saying it `Tatty`.
 - `Raju` sounds like the combination of `Ra` (like the Egyptian sun god) and `ju` (like in `juice`).
 
-> Tatiraju is a rare [Telugu](https://en.wikipedia.org/wiki/Telugu_people) last name. People with this last name are almost certainly blood relatives. The current hypothesis about its origin is as an occupational surname introduced in medieval India when my ancestors, most likely noblemen,  were employed by kings as advisors and tax collectors.
+> Tatiraju is a rare [Telugu](https://en.wikipedia.org/wiki/Telugu_people) last name. People with this last name are almost certainly blood relatives. The current hypothesis about its origin is as an occupational surname introduced in medieval India when my ancestors,  were employed by kings as advisors and tax collectors.
 
 ## What's in a name?
 A lot, actually - especially with Indian names having beautiful meanings turning into something opposite when non-Native speakers pronounce them _(see [Hardik](https://en.wikipedia.org/wiki/Hardik))_. So, thank you for showing interest in pronouncing my name the correct way.
