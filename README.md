@@ -2,7 +2,6 @@ Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob
 
 ### ✉️ Reach out
 - [LinkedIn](https://www.linkedin.com/in/rishabhtatiraju/)
-- [Email](mailto:tatiraju.rishabh@gmail.com)
 
 ### 🌐 Find me elsewhere
 - [Website](https://rishabh.blog)
