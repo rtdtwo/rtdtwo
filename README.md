@@ -11,9 +11,9 @@ Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob
 ### 🗣️ Language proficiency
 | Language | ILR Scale | Description |
 | -------- | --- | ----------- |
-| [Telugu](https://en.wikipedia.org/wiki/Telugu_language) | 5 | _Native proficiency_ |
-| English (UK) | 5 | _Bilingual proficiency_ |
-| [Hindi](https://en.wikipedia.org/wiki/Hindi) | 5 | _Bilingual proficiency_ |
+| [Telugu](https://en.wikipedia.org/wiki/Telugu_language) | 5 | _Native/Bilingual proficiency_ |
+| English (UK) | 5 | _Native/Bilingual proficiency_ |
+| [Hindi](https://en.wikipedia.org/wiki/Hindi) | 5 | _Native/Bilingual proficiency_ |
 | English (US) | 4 | _Full professional proficiency_ |
 | [Urdu](https://en.wikipedia.org/wiki/Urdu_language) | 3+ | _General Professional proficiency_ |
 | [Marathi](https://en.wikipedia.org/wiki/Marathi_language) | 2 | _Limited Professional proficiency_ |
