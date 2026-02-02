@@ -9,7 +9,7 @@ Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob
 - [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers, _on a hiatus_)
 
 ### 🗣️ Language proficiency
-| Language | ILR Scale | Description |
+| Language | [ILR Scale Equivalent](https://en.wikipedia.org/wiki/ILR_scale) | Description |
 | -------- | --- | ----------- |
 | [Telugu](https://en.wikipedia.org/wiki/Telugu_language) | 5 | _Native/Bilingual proficiency_ |
 | English (UK) | 5 | _Native/Bilingual proficiency_ |
