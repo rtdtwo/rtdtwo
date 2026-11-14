@@ -1,12 +1,7 @@
-Hi, I'm Rishabh Tatiraju (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob/main/name-help.md)_). I'm currently a Financial Software Associate at Galatea Associates, LLC. I code mostly with Python, JavaScript and Java.
-
-### ✉️ Reach out
-- [LinkedIn](https://www.linkedin.com/in/rishabhtatiraju/)
+Hi, I'm Rishabh (_[pronunciation](https://github.com/rtdtwo/rtdtwo/blob/main/name-help.md)_) and I'm a Full-Stack Engineer.
 
 ### 🌐 Find me elsewhere
 - [Website](https://rishabh.blog)
-- [Medium](https://rtdtwo.medium.com)
-- [YouTube](https://www.youtube.com/@rishabhtatirajumusic3656) (music covers, _on a hiatus_)
 
 ### 🗣️ Language proficiency
 | Language | [ILR Scale Equivalent](https://en.wikipedia.org/wiki/ILR_scale) | Description |
